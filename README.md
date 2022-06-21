@@ -11,3 +11,7 @@ Ognib is just a game of bingo played backwards to save time. Numbers are drawn a
 A million games. Full House in Bingo is the same as a player being out in Ognib.
 
 ![Alt text](images/ognib.jpg?raw=true "Title")
+
+## Conclusion
+
+Bingo takes ages. Play Ognib.
