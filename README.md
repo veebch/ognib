@@ -18,4 +18,4 @@ Bingo takes ages. Play Ognib.
 
 ### Caveat
 
-This doesn't take the the 'free' middle square into account. This would mean that your card really has 24 numbers rather than 25.
+This doesn't take the the 'free' middle square into account. For better equivalence with Bingo, this would mean that your card really has 24 numbers rather than 25.
