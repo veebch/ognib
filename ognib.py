@@ -16,7 +16,7 @@ def new_game():
 def main():
     nbins = 25   
     mycard=new_board()
-    counter=0
+    counter=1
     games=10**6
     games_sep = (format(games, ',d'))
     ognib=[]
