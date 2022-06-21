@@ -15,3 +15,7 @@ A million games. Full House in Bingo is the same as a player being out in Ognib.
 ## Conclusion
 
 Bingo takes ages. Play Ognib.
+
+### Caveat
+
+This doesn't take the the 'free' middle square into accounrt. 
